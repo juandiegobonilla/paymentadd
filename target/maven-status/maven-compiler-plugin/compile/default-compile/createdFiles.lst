@@ -1,0 +1,8 @@
+co/sophos/payment/PaymentAddApplication.class
+co/sophos/payment/controller/client/CustomerResponse.class
+co/sophos/payment/controller/client/Customer.class
+co/sophos/payment/controller/entities/Status.class
+co/sophos/payment/controller/PaymentController.class
+co/sophos/payment/controller/client/ClientCustomerQuery.class
+co/sophos/payment/controller/entities/Payment.class
+co/sophos/payment/controller/entities/PaymentResponse.class

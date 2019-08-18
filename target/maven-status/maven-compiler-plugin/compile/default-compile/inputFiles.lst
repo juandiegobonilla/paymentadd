@@ -1,0 +1,8 @@
+/home/jdiego/Documentos/workspace/PaymentAdd/src/main/java/co/sophos/payment/controller/PaymentController.java
+/home/jdiego/Documentos/workspace/PaymentAdd/src/main/java/co/sophos/payment/controller/client/Customer.java
+/home/jdiego/Documentos/workspace/PaymentAdd/src/main/java/co/sophos/payment/controller/entities/Status.java
+/home/jdiego/Documentos/workspace/PaymentAdd/src/main/java/co/sophos/payment/controller/client/CustomerResponse.java
+/home/jdiego/Documentos/workspace/PaymentAdd/src/main/java/co/sophos/payment/controller/entities/PaymentResponse.java
+/home/jdiego/Documentos/workspace/PaymentAdd/src/main/java/co/sophos/payment/controller/entities/Payment.java
+/home/jdiego/Documentos/workspace/PaymentAdd/src/main/java/co/sophos/payment/PaymentAddApplication.java
+/home/jdiego/Documentos/workspace/PaymentAdd/src/main/java/co/sophos/payment/controller/client/ClientCustomerQuery.java
